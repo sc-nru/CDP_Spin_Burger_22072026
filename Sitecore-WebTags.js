@@ -15,7 +15,7 @@ s.addEventListener("load", async () => {
     clientKey: "klus01taib90pmh5tnf817nbmgiksmdg",
     targetURL: "https://api-engage-us.sitecorecloud.io",
     pointOfSale: "SpinBurger",
-    cookieDomain: ".steep-excellent-sushi.glitch.me",
+    cookieDomain: "",
     cookieExpiryDays: 365,
     forceServerCookieMode: false,
     includeUTMParameters: true,
